@@ -1,0 +1,19 @@
+# Arquivos do Colab (não enviar)
+sample_data/
+.config/
+code/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Dados brutos (grandes)
+data/raw/
+data/processed/
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos de senha
+.env
+
